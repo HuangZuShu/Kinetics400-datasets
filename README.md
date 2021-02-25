@@ -12,15 +12,16 @@ Note that this link is only for academic use, not for commercial use.
 
 If the authors of Kinetics asks me to delete it, please contact me and I will delete it immediately.
 
+Now I set this link with passwords (Because I'm not sure the authors of Kinetics will be angry about it), you can contact with me for the dataset and passwords.
 ### Contents
 
-- [ Kinetics 400 Split 1](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EUDKtC92bn1MsVdBHVBHbpcBAuPVFFbugOSbu8buce0r5A?e=qDSUF1) 
+- [ Kinetics 400 Split 1](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EUDKtC92bn1MsVdBHVBHbpcBKSYEFIMPz1HmZyLrhHZwZQ?e=ZZHFH3) 
 
-- [ Kinetics 400 Split 2](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EcavZed6z1hDl64AC6PuI_cBVceyDCBirvkZWUlvg4JuVQ?e=KrY8rg) 
+- [ Kinetics 400 Split 2](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EcavZed6z1hDl64AC6PuI_cBWWp-o4SU7m2LirdXTyQ49Q?e=Th8o3O) 
   
-- [ Kinetics 400 Split 3](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EbnVhIazxW1GisEC_Bv2nNkBsdP3n0cthKZEkHNH9Ztetg?e=grRvbh) 
+- [ Kinetics 400 Split 3](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EbnVhIazxW1GisEC_Bv2nNkBW--aKnk64571XU8yu7k0Ag?e=IYYLuh) 
   
-- [ Kinetics 400 Split 4](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EYYLh70gH9NGs4mHSJwOqAIBRDUCsdyYIeI3FPNfl2GToQ?e=3lp6dL) 
+- [ Kinetics 400 Split 4](https://cuhko365-my.sharepoint.com/:u:/g/personal/219019048_link_cuhk_edu_cn/EYYLh70gH9NGs4mHSJwOqAIBm9Hy1QccMkf83Qu3YxAUEQ?e=MronZi) 
   
 ### Contact
 If you meet any problems, please describe them in issues or contact:
@@ -31,4 +32,3 @@ If you meet any problems, please describe them in issues or contact:
 
 
  
-
